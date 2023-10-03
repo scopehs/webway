@@ -1,0 +1,622 @@
+[{
+        "nebula_id": 1,
+        "location_id": 10000002
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000003
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000013
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000034
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000040
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000066
+    },
+    {
+        "nebula_id": 1,
+        "location_id": 10000069
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000002
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000003
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000013
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000016
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000034
+    },
+
+    {
+        "nebula_id": 2,
+        "location_id": 10000069
+    },
+
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000012
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000001
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000036
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000011
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000030
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000025
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000042
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000028
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000038
+    },
+
+    {
+        "nebula_id": 3,
+        "location_id": 10000006
+    },
+
+    {
+        "nebula_id": 4,
+        "location_id": 10000012
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000001
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000011
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000030
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000025
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000028
+    },
+    {
+        "nebula_id": 4,
+        "location_id": 10000038
+    },
+
+
+    {
+        "nebula_id": 5,
+        "location_id": 10000067
+    },
+
+    {
+        "nebula_id": 5,
+        "location_id": 10000044
+    },
+
+    {
+        "nebula_id": 5,
+        "location_id": 10000015
+    },
+
+    {
+        "nebula_id": 6,
+        "location_id": 10000043
+    },
+    {
+        "nebula_id": 6,
+        "location_id": 10000067
+    },
+    {
+        "nebula_id": 6,
+        "location_id": 10000044
+    },
+    {
+        "nebula_id": 6,
+        "location_id": 10000015
+    },
+
+
+    {
+        "nebula_id": 7,
+        "location_id": 10000069
+    },
+    {
+        "nebula_id": 7,
+        "location_id": 10000013
+    },
+    {
+        "nebula_id": 7,
+        "location_id": 10000040
+    },
+    {
+        "nebula_id": 7,
+        "location_id": 10000034
+    },
+    {
+        "nebula_id": 7,
+        "location_id": 10000018
+    },
+    {
+        "nebula_id": 7,
+        "location_id": 10000003
+    },
+
+
+    {
+        "nebula_id": 8,
+        "location_id": 10000069
+    },
+    {
+        "nebula_id": 8,
+        "location_id": 10000016
+    },
+    {
+        "nebula_id": 8,
+        "location_id": 10000066
+    },
+    {
+        "nebula_id": 8,
+        "location_id": 10000003
+    },
+
+
+    {
+        "nebula_id": 9,
+        "location_id": 10000054
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000012
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000001
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000025
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000049
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000065
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000044
+    },
+    {
+        "nebula_id": 9,
+        "location_id": 10000006
+    },
+
+
+    {
+        "nebula_id": 10,
+        "location_id": 10000054
+    },
+    {
+        "nebula_id": 10,
+        "location_id": 10000012
+    },
+    {
+        "nebula_id": 10,
+        "location_id": 10000001
+    },
+    {
+        "nebula_id": 10,
+        "location_id": 10000006
+    },
+
+
+    {
+        "nebula_id": 11,
+        "location_id": 10000054
+    },
+    {
+        "nebula_id": 11,
+        "location_id": 10000049
+    },
+    {
+        "nebula_id": 11,
+        "location_id": 10000044
+    },
+
+    {
+        "nebula_id": 12,
+        "location_id": 10000054
+    },
+    {
+        "nebula_id": 12,
+        "location_id": 10000025
+    },
+
+
+    {
+        "nebula_id": 13,
+        "location_id": 10000001
+    },
+    {
+        "nebula_id": 13,
+        "location_id": 10000011
+    },
+    {
+        "nebula_id": 13,
+        "location_id": 10000030
+    },
+    {
+        "nebula_id": 13,
+        "location_id": 10000025
+    },
+    {
+        "nebula_id": 13,
+        "location_id": 10000038
+    },
+
+
+    {
+        "nebula_id": 14,
+        "location_id": 10000012
+    },
+    {
+        "nebula_id": 14,
+        "location_id": 10000001
+    },
+    {
+        "nebula_id": 14,
+        "location_id": 10000030
+    },
+    {
+        "nebula_id": 14,
+        "location_id": 10000038
+    },
+    {
+        "nebula_id": 14,
+        "location_id": 10000006
+    },
+
+
+    {
+        "nebula_id": 15,
+        "location_id": 10000043
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000064
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000067
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000048
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000041
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000045
+    },
+    {
+        "nebula_id": 15,
+        "location_id": 10000015
+    },
+
+
+    {
+        "nebula_id": 17,
+        "location_id": 10000064
+    },
+    {
+        "nebula_id": 17,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 17,
+        "location_id": 10000067
+    },
+    {
+        "nebula_id": 17,
+        "location_id": 10000048
+    },
+    {
+        "nebula_id": 17,
+        "location_id": 10000041
+    },
+    {
+        "nebula_id": 17,
+        "location_id": 10000015
+    },
+
+
+    {
+        "nebula_id": 18,
+        "location_id": 10000002
+    },
+
+    {
+        "nebula_id": 19,
+        "location_id": 10000003
+    },
+
+    {
+        "nebula_id": 20,
+        "location_id": 10000003
+    },
+
+
+
+    {
+        "nebula_id": 21,
+        "location_id": 10000003
+    },
+    {
+        "nebula_id": 22,
+        "location_id": 10000003
+    },
+    {
+        "nebula_id": 23,
+        "location_id": 10000003
+    },
+    {
+        "nebula_id": 24,
+        "location_id": 10000003
+    },
+
+
+    {
+        "nebula_id": 25,
+        "location_id": 10000006
+    },
+    {
+        "nebula_id": 26,
+        "location_id": 10000006
+    },
+    {
+        "nebula_id": 27,
+        "location_id": 10000006
+    },
+    {
+        "nebula_id": 28,
+        "location_id": 10000006
+    },
+    {
+        "nebula_id": 29,
+        "location_id": 10000006
+    },
+
+
+
+    {
+        "nebula_id": 30,
+        "location_id": 10000044
+    },
+
+
+
+
+    {
+        "nebula_id": 31,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 32,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 33,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 34,
+        "location_id": 10000058
+    },
+    {
+        "nebula_id": 35,
+        "location_id": 10000058
+    },
+
+
+    {
+        "nebula_id": 36,
+        "location_id": 10000016
+    },
+
+
+    {
+        "nebula_id": 37,
+        "location_id": 10000045
+    },
+    {
+        "nebula_id": 38,
+        "location_id": 10000045
+    },
+    {
+        "nebula_id": 39,
+        "location_id": 10000045
+    },
+    {
+        "nebula_id": 40,
+        "location_id": 10000045
+    },
+
+
+    {
+        "nebula_id": 41,
+        "location_id": 10000001
+    },
+
+
+
+    {
+        "nebula_id": 42,
+        "location_id": 10000014
+    },
+    {
+        "nebula_id": 43,
+        "location_id": 10000014
+    },
+    {
+        "nebula_id": 44,
+        "location_id": 10000014
+    },
+    {
+        "nebula_id": 45,
+        "location_id": 10000014
+    },
+
+
+    {
+        "nebula_id": 46,
+        "location_id": 10000054
+    },
+
+
+    {
+        "nebula_id": 47,
+        "location_id": 10000060
+    },
+    {
+        "nebula_id": 48,
+        "location_id": 10000060
+    },
+    {
+        "nebula_id": 49,
+        "location_id": 10000060
+    },
+    {
+        "nebula_id": 50,
+        "location_id": 10000060
+    },
+    {
+        "nebula_id": 51,
+        "location_id": 10000060
+    },
+
+    {
+        "nebula_id": 52,
+        "location_id": 10000030
+    },
+
+
+
+    {
+        "nebula_id": 53,
+        "location_id": 10000056
+    },
+    {
+        "nebula_id": 54,
+        "location_id": 10000056
+    },
+    {
+        "nebula_id": 55,
+        "location_id": 10000056
+    },
+    {
+        "nebula_id": 56,
+        "location_id": 10000056
+    },
+
+    {
+        "nebula_id": 57,
+        "location_id": 10000048
+    },
+
+
+
+    {
+        "nebula_id": 58,
+        "location_id": 10000051
+    },
+    {
+        "nebula_id": 59,
+        "location_id": 10000051
+    },
+    {
+        "nebula_id": 60,
+        "location_id": 10000051
+    },
+    {
+        "nebula_id": 61,
+        "location_id": 10000051
+    },
+    {
+        "nebula_id": 62,
+        "location_id": 10000051
+    }
+
+
+
+
+
+
+
+
+
+
+]

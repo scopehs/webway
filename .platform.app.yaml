@@ -1,0 +1,129 @@
+# This file describes an application. You can have multiple applications
+# in the same project.
+
+# The name of this app. Must be unique within a project.
+name: app
+
+# The type of the application to build.
+type: php:8.1
+build:
+  flavor: composer
+
+dependencies:
+  php:
+    composer/composer: "^2"
+
+# .platform.app.yaml
+runtime:
+  extensions:
+    - gmp
+
+# The hooks that will be performed when the package is deployed.
+# hooks:
+#     build: |
+#         set -e
+#         composer dumpautoload
+#       deploy: |
+#         set -e
+#         php artisan migrate --force
+#         php artisan route:cache
+#         php artisan config:cache
+#         php artisan l5-swagger:generate
+
+hooks:
+  build: |
+    set -e
+
+  deploy: |
+    rm -f bootstrap/cache/config.php
+    rm -f bootstrap/cache/packages.php
+    rm -f bootstrap/cache/routes-v7.php
+    rm -f bootstrap/cache/services.php
+    composer dumpautoload
+    set -e
+    php artisan optimize:clear
+    php artisan optimize
+    php artisan route:cache
+    php artisan config:cache
+    php artisan migrate --force
+
+# The relationships of the application with services or other applications.
+# The left-hand side is the name offfff the relationship as it will be exposed
+# to the application in the PLATFORM_RELATIONSHIPS variable. The right-hand
+# side is in the form `<service name>:<endpoint name>`.
+relationships:
+  database: "mysqldb:mysql"
+  redis: "redisnew:redis"
+
+# The size of the persistent disk of the application (in MB).
+disk: 5000
+
+# The mounts that will be performed when the package is deployed.
+mounts:
+  # "storage":
+  #   source: local
+  #   source_path: "storage"
+  "cache":
+    source: local
+    source_path: "esi/cache"
+  "logs":
+    source: local
+    source_path: "esi/logs"
+  "public/cache":
+    source: local
+    source_path: "esi/cache"
+  "public/logs":
+    source: local
+    source_path: "esi/logs"
+  "storage/app/public":
+    source: local
+    source_path: "public"
+  "storage/framework/views":
+    source: local
+    source_path: "views"
+  "storage/framework/sessions":
+    source: local
+    source_path: "sessions"
+  "storage/framework/cache":
+    source: local
+    source_path: "cache"
+  "storage/logs":
+    source: local
+    source_path: "logs"
+  "bootstrap/cache":
+    source: local
+    source_path: "cache"
+  "/.config":
+    source: local
+    source_path: "config"
+# The configuration of app when it is exp   osed to the web.
+web:
+  locations:
+    "/":
+      root: "public"
+      index:
+        - index.php
+      allow: true
+      passthru: "/index.php"
+    "/storage":
+      root: "storage/app/public"
+      scripts: false
+workers:
+  schedule1:
+    size: S
+    disk: 512
+    commands:
+      start: |
+        php artisan schedule:work
+  queue21:
+    size: S
+    disk: 512
+    commands:
+      start: |
+        php artisan schedule:daemon5
+  horizon11:
+    size: M
+    disk: 3072
+    commands:
+      start: |
+        php artisan horizon

@@ -1,0 +1,5 @@
+mysqldb:
+  type: mysql:10.2
+  disk: 10000
+redisnew:
+  type: redis:6.0

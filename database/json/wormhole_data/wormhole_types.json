@@ -1,0 +1,776 @@
+{
+    "H296": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "B274": {
+        "life": 24,
+        "leadsTo": 7,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "B041": {
+        "life": 48,
+        "leadsTo": 6,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "U319": {
+        "life": 48,
+        "leadsTo": 6,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+
+    "J377": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+
+    "Z142": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N944": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N770": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "X702": {
+        "life": 24,
+        "leadsTo": 3,
+        "mass": 1000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N290": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N110": {
+        "life": 24,
+        "leadsTo": 7,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "N062": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "M555": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "L614": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N432": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "O128": {
+        "life": 24,
+        "leadsTo": 4,
+        "mass": 1000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "R474": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "S047": {
+        "life": 24,
+        "leadsTo": 7,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "Z060": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "W237": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "V911": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "V753": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "V283": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "U574": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "U210": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "S804": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "S199": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "K346": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "K329": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 5000000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "D792": {
+        "life": 24,
+        "leadsTo": 7,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "D845": {
+        "life": 24,
+        "leadsTo": 7,
+        "mass": 5000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "B520": {
+        "life": 48,
+        "leadsTo": 9,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "E545": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "A982": {
+        "life": 24,
+        "leadsTo": 6,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "A239": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "C140": {
+        "life": 24,
+        "leadsTo": 8,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "H900": {
+        "life": 24,
+        "leadsTo": 5,
+        "mass": 3000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "C391": {
+        "life": 48,
+        "leadsTo": 8,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "C248": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3300000000,
+        "jump": 2000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "J244": {
+        "life": 25,
+        "leadsTo": 8,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "V301": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "B449": {
+        "life": 16,
+        "leadsTo": 7,
+        "mass": 2000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "C125": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "L477": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "X877": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "Y683": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "Y790": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "A641": {
+        "life": 16,
+        "leadsTo": 7,
+        "mass": 2000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "Z457": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "Z647": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "Z971": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 100000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "C247": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "T405": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "M267": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 1000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "M609": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "H121": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "G024": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "N766": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "E175": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "N968": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "O477": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 2000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "O883": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 1000000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "P060": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "Q317": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "R051": {
+        "life": 16,
+        "leadsTo": 8,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "D382": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 2000000000,
+        "jump": 300000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "R943": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "D364": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 1000000000,
+        "jump": 375000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "I182": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 2000000000,
+        "jump": 300000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "Q003": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "E004": {
+        "life": 16,
+        "leadsTo": 1,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "L005": {
+        "life": 16,
+        "leadsTo": 2,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "Z006": {
+        "life": 16,
+        "leadsTo": 3,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "M001": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "C008": {
+        "life": 16,
+        "leadsTo": 5,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "G008": {
+        "life": 16,
+        "leadsTo": 6,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "A009": {
+        "life": 16,
+        "leadsTo": 13,
+        "mass": 3000000000,
+        "jump": 5000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "L031": {
+        "life": 16,
+        "leadsTo": 12,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 3000000000
+    },
+    "T458": {
+        "life": 16,
+        "leadsTo": 12,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "F135": {
+        "life": 16,
+        "leadsTo": 12,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "F353": {
+        "life": 16,
+        "leadsTo": 12,
+        "mass": 100000000,
+        "jump": 62000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "M164": {
+        "life": 16,
+        "leadsTo": 12,
+        "mass": 2000000000,
+        "jump": 1000000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "Q063": {
+        "life": 16,
+        "leadsTo": 7,
+        "mass": 500000000,
+        "jump": 62000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "V898": {
+        "life": 16,
+        "leadsTo": 8,
+        "mass": 2000000000,
+        "jump": 1000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "E587": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 3000000000,
+        "jump": 1000000000,
+        "wandering": 0,
+        "regen": 0
+    },
+    "B735": {
+        "life": 16,
+        "leadsTo": 15,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "C414": {
+        "life": 16,
+        "leadsTo": 17,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "R259": {
+        "life": 16,
+        "leadsTo": 18,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "S877": {
+        "life": 16,
+        "leadsTo": 14,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "V928": {
+        "life": 16,
+        "leadsTo": 16,
+        "mass": 750000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "C729": {
+        "life": 12,
+        "leadsTo": 25,
+        "mass": 1000000000,
+        "jump": 300000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "F216": {
+        "life": 16,
+        "leadsTo": 25,
+        "mass": 1000000000,
+        "jump": 375000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "U372": {
+        "life": 16,
+        "leadsTo": 25,
+        "mass": 1000000000,
+        "jump": 300000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "R081": {
+        "life": 16,
+        "leadsTo": 4,
+        "mass": 1000000000,
+        "jump": 450000000,
+        "wandering": 1,
+        "regen": 0
+    },
+    "X450": {
+        "life": 16,
+        "leadsTo": 9,
+        "mass": 1000000000,
+        "jump": 300000000,
+        "wandering": 1,
+        "regen": 0
+    },
+
+
+    "K162": {
+        "life": 25,
+        "leadsTo": 100,
+        "mass": 0,
+        "jump": 0,
+        "wandering": 1,
+        "regen": 0
+    }
+
+
+}

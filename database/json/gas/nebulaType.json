@@ -1,0 +1,1109 @@
+[{
+        "id": 1,
+        "units": 3000,
+        "name": "Diablo Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 2,
+        "units": 2000,
+        "name": "Sunspark Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 3,
+        "units": 6000,
+        "name": "Eagle Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 4,
+        "units": 2000,
+        "name": "Ghost Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 5,
+        "units": 3000,
+        "name": "Glass Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 6,
+        "units": 1000,
+        "name": "Calabash Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 7,
+        "units": 3000,
+        "name": "Ring Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 8,
+        "units": 2000,
+        "name": "Smoking Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 9,
+        "units": 6000,
+        "name": "Helix Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 10,
+        "units": 2000,
+        "name": "Sister Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 11,
+        "units": 3000,
+        "name": "Blackeye Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 12,
+        "units": 1000,
+        "name": "Wild Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 13,
+        "units": 1000,
+        "name": "Flame Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 14,
+        "units": 6000,
+        "name": "Pipe Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 15,
+        "units": 6000,
+        "name": "Sparking Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 17,
+        "units": 2000,
+        "name": "Bright Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 18,
+        "units": 500,
+        "name": "Bandit Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 19,
+        "units": 500,
+        "name": "Fluttering Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 20,
+        "units": 832,
+        "name": "Rocky Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 2500
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 21,
+        "units": 3000,
+        "name": "Dewy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 22,
+        "units": 3000,
+        "name": "Foggy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 23,
+        "units": 9000,
+        "name": "Shimmering Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1400
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 24,
+        "units": 3000,
+        "name": "Spacious Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 25,
+        "units": 1000,
+        "name": "Crystal Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 400
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 26,
+        "units": 1000,
+        "name": "Snowy Owl Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 27,
+        "units": 9000,
+        "name": "Arctic Fox Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            },
+            "1": {
+                "type": "em",
+                "amount": 700
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 28,
+        "units": 3000,
+        "name": "Glistening Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 29,
+        "units": 3000,
+        "name": "Murky Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 30,
+        "units": 500,
+        "name": "Phoenix Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 31,
+        "units": 1000,
+        "name": "Flowing Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 32,
+        "units": 3000,
+        "name": "Diamond Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 33,
+        "units": 9000,
+        "name": "Massive Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 34,
+        "units": 3000,
+        "name": "Peacock Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 35,
+        "units": 1000,
+        "name": "Thick Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 36,
+        "units": 500,
+        "name": "Profiteer Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 37,
+        "units": 1000,
+        "name": "Swarm Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 38,
+        "units": 3000,
+        "name": "Lion Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 39,
+        "units": 3000,
+        "name": "Shiny Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 40,
+        "units": 9000,
+        "name": "Gaseous Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            },
+            "1": {
+                "type": "em",
+                "amount": 700
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 41,
+        "units": 500,
+        "name": "Emerald Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 42,
+        "units": 1000,
+        "name": "Cheetah Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 43,
+        "units": 3000,
+        "name": "Duo Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 44,
+        "units": 9000,
+        "name": "Leopard Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "explosive",
+                "amount": 1400
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 45,
+        "units": 3000,
+        "name": "Rimy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 46,
+        "units": 1000,
+        "name": "Crimson Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+
+    {
+        "id": 47,
+        "units": 500,
+        "name": "Cobra Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 48,
+        "units": 680,
+        "name": "Crab Spider Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+
+    {
+        "id": 49,
+        "units": 9000,
+        "name": "Hazy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            },
+            "1": {
+                "type": "em",
+                "amount": 800
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 50,
+        "units": 3000,
+        "name": "Hidden Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 51,
+        "units": 3000,
+        "name": "Whirling Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 1,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 52,
+        "units": 500,
+        "name": "Saintly Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 53,
+        "units": 1000,
+        "name": "Boisterous Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 54,
+        "units": 3000,
+        "name": "Cardinal Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 55,
+        "units": 9000,
+        "name": "Red Dragonfly Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            },
+            "1": {
+                "type": "em",
+                "amount": 700
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 56,
+        "units": 3000,
+        "name": "Wispy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 1,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 57,
+        "units": 500,
+        "name": "Forgotten Nebula",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 58,
+        "units": 1000,
+        "name": "Frosty Nebula",
+        "damage": 1,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 59,
+        "units": 1000,
+        "name": "Goose Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 60,
+        "units": 3000,
+        "name": "Icy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            },
+            "1": {
+                "type": "em",
+                "amount": 1000
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 61,
+        "units": 3000,
+        "name": "Pale Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 1000
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 62,
+        "units": 9000,
+        "name": "Polar Bear Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 800
+            }
+        },
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 63,
+        "units": 9000,
+        "name": "Hazy Nebula",
+        "damage": 1,
+        "damage_type": {
+            "0": {
+                "type": "thermal",
+                "amount": 700
+            },
+            "1": {
+                "type": "em",
+                "amount": 800
+            }
+        },
+        "npc": 0,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 64,
+        "units": 18000,
+        "name": "Barren Perimeter Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 65,
+        "units": 30000,
+        "name": "Sizeable Perimeter Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 66,
+        "units": 18000,
+        "name": "Token Perimeter Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 67,
+        "units": 24000,
+        "name": "Minor Perimeter Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 68,
+        "units": 36000,
+        "name": "Ordinary Perimeter Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 0
+    },
+
+    {
+        "id": 69,
+        "units": 60000,
+        "name": "Bountiful Frontier Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 1,
+        "jedi": 0
+    },
+
+    {
+        "id": 70,
+        "units": 108000,
+        "name": "Vast Frontier Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 1,
+        "jedi": 0
+    },
+
+    {
+        "id": 71,
+        "units": 140000,
+        "name": "Instrumental Core Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 0,
+        "jedi": 1
+    },
+
+    {
+        "id": 72,
+        "units": 250000,
+        "name": "Vital Core Reservoir",
+        "damage": 0,
+        "damage_type": null,
+        "npc": 1,
+        "dead_space": 0,
+        "ninja": 1,
+        "jedi": 0
+    }
+
+]

@@ -1,0 +1,1 @@
+import{c as r,e as o,f as a,z as i}from"./app.947dfe37.js";const p={__name:"BrokenChainTableRegionCell",props:{item:Object},setup(t){const e=t,s=[7,8,9];let n=r(()=>s.includes(e.item.solar_system.system_type[0].id)?e.item.solar_system.region.name:"");return(l,c)=>(o(),a("div",null,i(n.value),1))}};export{p as default};

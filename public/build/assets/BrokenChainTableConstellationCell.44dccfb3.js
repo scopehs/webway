@@ -1,0 +1,1 @@
+import{c as o,e as a,f as r,z as l}from"./app.947dfe37.js";const p={__name:"BrokenChainTableConstellationCell",props:{item:Object},setup(t){const e=t,s=[7,8,9];let n=o(()=>s.includes(e.item.solar_system.system_type[0].id)?e.item.solar_system.constellation.name:"");return(i,c)=>(a(),r("div",null,l(n.value),1))}};export{p as default};

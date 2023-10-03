@@ -1,0 +1,1 @@
+[2022-11-28T09:38:52.180426+00:00] eseye.INFO: [http 204, no content] post -> https://esi.evetech.net/latest/ui/autopilot/waypoint/?datasource=tranquility&add_to_beginning=0&clear_other_waypoints=1&destination_id=30004759 [t/e: 0.36s/100]

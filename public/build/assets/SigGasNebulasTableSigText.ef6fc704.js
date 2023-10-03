@@ -1,0 +1,1 @@
+import{c as t,e as l,f as s,z as o}from"./app.947dfe37.js";const i={__name:"SigGasNebulasTableSigText",props:{num:Number,type:Number},setup(r){const e=r;let u=t(()=>Number(e.num).toLocaleString()),n=t(()=>e.num==1?"Yes":"No"),a=t(()=>{if(e.type==1)return n.value;if(e.type==2)return u.value});return(m,p)=>(l(),s("div",null,o(a.value),1))}};export{i as default};

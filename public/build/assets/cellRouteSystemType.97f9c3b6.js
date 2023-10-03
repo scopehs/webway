@@ -1,0 +1,1 @@
+import{e as s,f as o,z as a}from"./app.947dfe37.js";const n={__name:"cellRouteSystemType",props:{item:Object},setup(e){const t=e;return(r,c)=>(s(),o("div",null,a(t.item.solar_system.system_type[0].name),1))}};export{n as default};

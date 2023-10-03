@@ -1,0 +1,1196 @@
+{
+  "node_modules/@quasar/extras/fontawesome-v6/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.7ba24c41.woff2",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-regular-400.woff2"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.e2c5cf54.woff2",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-solid-900.woff2"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.f4617423.woff2",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-brands-400.woff2"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility.7c377405.woff2",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-v4compatibility.woff2"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.12dea17b.ttf",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-regular-400.ttf"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.2ef6fdde.ttf",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-brands-400.ttf"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility.8d9500e8.ttf",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-v4compatibility.ttf"
+  },
+  "node_modules/@quasar/extras/fontawesome-v6/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.67a880b4.ttf",
+    "src": "node_modules/@quasar/extras/fontawesome-v6/fa-solid-900.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.947dfe37.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/views/Step.vue",
+      "resources/js/views/AllTheStats.vue",
+      "resources/js/views/AllConnections.vue",
+      "resources/js/views/Whalers.vue",
+      "resources/js/views/BrokenChain.vue",
+      "resources/js/views/Chars.vue",
+      "resources/js/views/HotAreas.vue",
+      "resources/js/views/Scopeh.vue",
+      "resources/js/views/shortestPath.vue",
+      "resources/js/views/Chat.vue",
+      "resources/js/views/Route.vue",
+      "resources/js/views/Sigs.vue",
+      "resources/js/views/AdminPanel.vue",
+      "resources/js/components/step/routeMapping.vue",
+      "resources/js/components/feedback/newFeedbackButton.vue",
+      "resources/js/components/chat/chatWindow.vue"
+    ],
+    "css": [
+      "assets/app.51e76855.css"
+    ],
+    "assets": [
+      "assets/fa-brands-400.f4617423.woff2",
+      "assets/fa-brands-400.2ef6fdde.ttf",
+      "assets/fa-regular-400.7ba24c41.woff2",
+      "assets/fa-regular-400.12dea17b.ttf",
+      "assets/fa-solid-900.e2c5cf54.woff2",
+      "assets/fa-solid-900.67a880b4.ttf",
+      "assets/fa-v4compatibility.7c377405.woff2",
+      "assets/fa-v4compatibility.8d9500e8.ttf"
+    ]
+  },
+  "resources/js/views/Step.vue": {
+    "file": "assets/Step.a06a7e0c.js",
+    "src": "resources/js/views/Step.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/systemTable.vue"
+    ]
+  },
+  "resources/js/views/AllTheStats.vue": {
+    "file": "assets/AllTheStats.04cefcf5.js",
+    "src": "resources/js/views/AllTheStats.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QBtnGroup.c6ebf1c6.js",
+      "_QTd.5e156fed.js",
+      "_QTr.d1fe520f.js",
+      "_QTable.8d314c3a.js",
+      "_date.e8c4c223.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/allthestats/cellAllStats.vue",
+      "resources/js/components/allthestats/cellOnlineStatus.vue"
+    ],
+    "css": [
+      "assets/AllTheStats.4bf3451f.css"
+    ]
+  },
+  "_QTd.5e156fed.js": {
+    "file": "assets/QTd.5e156fed.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_QTr.d1fe520f.js": {
+    "file": "assets/QTr.d1fe520f.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_QTable.8d314c3a.js": {
+    "file": "assets/QTable.8d314c3a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_date.e8c4c223.js": {
+    "file": "assets/date.e8c4c223.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_QBtnGroup.c6ebf1c6.js": {
+    "file": "assets/QBtnGroup.c6ebf1c6.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/AllConnections.vue": {
+    "file": "assets/AllConnections.4220e01a.js",
+    "src": "resources/js/views/AllConnections.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/AllConnections.d1a5068a.css"
+    ]
+  },
+  "_QInput.0a5b359e.js": {
+    "file": "assets/QInput.0a5b359e.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/Whalers.vue": {
+    "file": "assets/Whalers.d5e7e12e.js",
+    "src": "resources/js/views/Whalers.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/whale/addDrifterWhale.vue"
+    ],
+    "css": [
+      "assets/Whalers.354e6f36.css"
+    ]
+  },
+  "resources/js/views/BrokenChain.vue": {
+    "file": "assets/BrokenChain.d2ec174b.js",
+    "src": "resources/js/views/BrokenChain.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/brokenChain/BrokenStaticTable.vue",
+      "resources/js/components/brokenChain/BrokenChainTable.vue"
+    ]
+  },
+  "resources/js/views/Chars.vue": {
+    "file": "assets/Chars.5052dfc5.js",
+    "src": "resources/js/views/Chars.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/Chars.46cc5067.css"
+    ]
+  },
+  "resources/js/views/HotAreas.vue": {
+    "file": "assets/HotAreas.5477a182.js",
+    "src": "resources/js/views/HotAreas.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QBtnGroup.c6ebf1c6.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js",
+      "_QInput.0a5b359e.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/hotarea/addSystemHot.vue",
+      "resources/js/components/hotarea/addConstellationHot.vue",
+      "resources/js/components/hotarea/addRegionHot.vue",
+      "resources/js/components/hotarea/GasHotTable.vue"
+    ],
+    "css": [
+      "assets/HotAreas.c21b13b1.css"
+    ]
+  },
+  "resources/js/views/Scopeh.vue": {
+    "file": "assets/Scopeh.4fcd4890.js",
+    "src": "resources/js/views/Scopeh.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QBtnGroup.c6ebf1c6.js",
+      "_QInput.0a5b359e.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/Scopeh.b3db109f.css"
+    ]
+  },
+  "resources/js/views/shortestPath.vue": {
+    "file": "assets/shortestPath.523eff4d.js",
+    "src": "resources/js/views/shortestPath.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/shortest/shortedRouteButton.vue"
+    ],
+    "css": [
+      "assets/shortestPath.73549dfc.css"
+    ]
+  },
+  "resources/js/views/Chat.vue": {
+    "file": "assets/Chat.5ee8aa73.js",
+    "src": "resources/js/views/Chat.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/chat/chatWindow.vue"
+    ],
+    "css": [
+      "assets/Chat.f0495891.css"
+    ]
+  },
+  "resources/js/views/Route.vue": {
+    "file": "assets/Route.4576c3a2.js",
+    "src": "resources/js/views/Route.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/route/routeTable.vue",
+      "resources/js/components/route/routeSavedTable.vue",
+      "resources/js/components/route/routeReservedTable.vue"
+    ],
+    "css": [
+      "assets/Route.810886ca.css"
+    ]
+  },
+  "resources/js/views/Sigs.vue": {
+    "file": "assets/Sigs.141a8e48.js",
+    "src": "resources/js/views/Sigs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_QBtnGroup.c6ebf1c6.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/countup/index.ts",
+      "resources/js/components/sigs/SigReportedIcon.vue",
+      "resources/js/components/sigs/SigReserveTag.vue",
+      "resources/js/components/sigs/SigReserveButton.vue",
+      "resources/js/components/sigs/SigDeleteButton.vue",
+      "resources/js/components/sigs/SigRouteButton.vue",
+      "resources/js/components/sigs/SigGasTable.vue"
+    ],
+    "css": [
+      "assets/Sigs.0c0373fd.css"
+    ]
+  },
+  "resources/js/views/AdminPanel.vue": {
+    "file": "assets/AdminPanel.c0e02022.js",
+    "src": "resources/js/views/AdminPanel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/AdminPanel.803d46b9.css"
+    ]
+  },
+  "resources/js/components/step/routeMapping.vue": {
+    "file": "assets/routeMapping.0e59a793.js",
+    "src": "resources/js/components/step/routeMapping.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/routeMapping.dbe468f4.css"
+    ]
+  },
+  "resources/js/components/feedback/newFeedbackButton.vue": {
+    "file": "assets/newFeedbackButton.617dffdc.js",
+    "src": "resources/js/components/feedback/newFeedbackButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_date.e8c4c223.js"
+    ],
+    "css": [
+      "assets/newFeedbackButton.241ef624.css"
+    ]
+  },
+  "resources/js/components/chat/chatWindow.vue": {
+    "file": "assets/chatWindow.b36be9ca.js",
+    "src": "resources/js/components/chat/chatWindow.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/countup/index.ts"
+    ],
+    "css": [
+      "assets/chatWindow.0944a5e7.css"
+    ]
+  },
+  "resources/js/components/step/systemTable.vue": {
+    "file": "assets/systemTable.a8497c76.js",
+    "src": "resources/js/components/step/systemTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTr.d1fe520f.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/nextSystemSigs.vue",
+      "resources/js/components/step/addDrifterHole.vue",
+      "resources/js/components/step/systemNotes.vue",
+      "resources/js/components/step/cellSigId.vue",
+      "resources/js/components/step/cellGroup.vue",
+      "resources/js/components/step/cellAge.vue",
+      "resources/js/components/step/cellWormholeTypeButton.vue",
+      "resources/js/components/step/cellLinkToButton.vue",
+      "resources/js/components/step/cell.vue",
+      "resources/js/components/step/routeInfoPaste.vue",
+      "resources/js/components/step/sigNotes.vue",
+      "resources/js/components/step/routeDeleteButtonNoRolesIsOwner.vue",
+      "resources/js/components/step/routeDeleteButtonHasRolesIsOwner.vue",
+      "resources/js/components/step/routeDeleteButtonHasRolesNotOwner.vue",
+      "resources/js/components/step/routeDeleteButtonNoRolesNotOwner.vue"
+    ],
+    "css": [
+      "assets/systemTable.3a471e54.css"
+    ]
+  },
+  "resources/js/components/allthestats/cellAllStats.vue": {
+    "file": "assets/cellAllStats.b91c8cf2.js",
+    "src": "resources/js/components/allthestats/cellAllStats.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/allthestats/cellOnlineStatus.vue": {
+    "file": "assets/cellOnlineStatus.c29448e0.js",
+    "src": "resources/js/components/allthestats/cellOnlineStatus.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/cellOnlineStatus.e4ef942d.css"
+    ]
+  },
+  "resources/js/components/whale/addDrifterWhale.vue": {
+    "file": "assets/addDrifterWhale.b47ff3d1.js",
+    "src": "resources/js/components/whale/addDrifterWhale.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenStaticTable.vue": {
+    "file": "assets/BrokenStaticTable.0477c980.js",
+    "src": "resources/js/components/brokenChain/BrokenStaticTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/brokenChain/BrokenSigURL.vue"
+    ],
+    "css": [
+      "assets/BrokenStaticTable.60af35f3.css"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenChainTable.vue": {
+    "file": "assets/BrokenChainTable.518de39c.js",
+    "src": "resources/js/components/brokenChain/BrokenChainTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/countup/index.ts",
+      "resources/js/components/brokenChain/BrokenChainURL.vue",
+      "resources/js/components/brokenChain/BrokenChainClaim.vue",
+      "resources/js/components/brokenChain/BrokenChainTableRegionCell.vue",
+      "resources/js/components/brokenChain/BrokenChainTableConstellationCell.vue"
+    ],
+    "css": [
+      "assets/BrokenChainTable.901db088.css"
+    ]
+  },
+  "resources/js/components/hotarea/addSystemHot.vue": {
+    "file": "assets/addSystemHot.90604584.js",
+    "src": "resources/js/components/hotarea/addSystemHot.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "_ClosePopup.32ce8d79.js": {
+    "file": "assets/ClosePopup.32ce8d79.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/hotarea/addConstellationHot.vue": {
+    "file": "assets/addConstellationHot.4d16a3d9.js",
+    "src": "resources/js/components/hotarea/addConstellationHot.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/hotarea/addRegionHot.vue": {
+    "file": "assets/addRegionHot.0cd0f686.js",
+    "src": "resources/js/components/hotarea/addRegionHot.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/hotarea/GasHotTable.vue": {
+    "file": "assets/GasHotTable.f9ecacb1.js",
+    "src": "resources/js/components/hotarea/GasHotTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js",
+      "_ClosePopup.32ce8d79.js"
+    ],
+    "css": [
+      "assets/GasHotTable.af81f3de.css"
+    ]
+  },
+  "resources/js/components/shortest/shortedRouteButton.vue": {
+    "file": "assets/shortedRouteButton.46610183.js",
+    "src": "resources/js/components/shortest/shortedRouteButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/routeTable.vue": {
+    "file": "assets/routeTable.2a40428c.js",
+    "src": "resources/js/components/route/routeTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTr.d1fe520f.js",
+      "_QTable.8d314c3a.js",
+      "_copy-to-clipboard.6d423000.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/route/cellRouteAge.vue",
+      "resources/js/components/route/cellRouteJumpNumber.vue",
+      "resources/js/components/route/cellRouteJumpType.vue",
+      "resources/js/components/route/cellRouteLife.vue",
+      "resources/js/components/route/cellRouteMass.vue",
+      "resources/js/components/route/cellRouteName.vue",
+      "resources/js/components/route/cellRouteRegion.vue",
+      "resources/js/components/route/cellRouteShipSize.vue",
+      "resources/js/components/route/cellRouteSig.vue",
+      "resources/js/components/route/cellRouteSystemType.vue",
+      "resources/js/components/route/routeButton.vue"
+    ],
+    "css": [
+      "assets/routeTable.a8de6da0.css"
+    ]
+  },
+  "_copy-to-clipboard.6d423000.js": {
+    "file": "assets/copy-to-clipboard.6d423000.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/routeSavedTable.vue": {
+    "file": "assets/routeSavedTable.0f68b15e.js",
+    "src": "resources/js/components/route/routeSavedTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/routeSavedTable.aca0ab60.css"
+    ]
+  },
+  "resources/js/components/route/routeReservedTable.vue": {
+    "file": "assets/routeReservedTable.fcee3efd.js",
+    "src": "resources/js/components/route/routeReservedTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "css": [
+      "assets/routeReservedTable.c77a2221.css"
+    ]
+  },
+  "resources/js/components/countup/index.ts": {
+    "file": "assets/index.ff6a3aa5.js",
+    "src": "resources/js/components/countup/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigReportedIcon.vue": {
+    "file": "assets/SigReportedIcon.6500793a.js",
+    "src": "resources/js/components/sigs/SigReportedIcon.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/SigReportedIcon.5fa8706a.css"
+    ]
+  },
+  "_QTooltip.46988d05.js": {
+    "file": "assets/QTooltip.46988d05.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigReserveTag.vue": {
+    "file": "assets/SigReserveTag.72e6cb62.js",
+    "src": "resources/js/components/sigs/SigReserveTag.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigReserveButton.vue": {
+    "file": "assets/SigReserveButton.80f7592f.js",
+    "src": "resources/js/components/sigs/SigReserveButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigDeleteButton.vue": {
+    "file": "assets/SigDeleteButton.7af6a18e.js",
+    "src": "resources/js/components/sigs/SigDeleteButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigRouteButton.vue": {
+    "file": "assets/SigRouteButton.4ce0687d.js",
+    "src": "resources/js/components/sigs/SigRouteButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigGasTable.vue": {
+    "file": "assets/SigGasTable.7db65747.js",
+    "src": "resources/js/components/sigs/SigGasTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_QTd.5e156fed.js",
+      "_QTr.d1fe520f.js",
+      "_QTable.8d314c3a.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/sigs/SigGasNebulasTable.vue"
+    ],
+    "css": [
+      "assets/SigGasTable.cfe20261.css"
+    ]
+  },
+  "resources/js/components/step/nextSystemSigs.vue": {
+    "file": "assets/nextSystemSigs.510c93ef.js",
+    "src": "resources/js/components/step/nextSystemSigs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTable.8d314c3a.js"
+    ]
+  },
+  "resources/js/components/step/addDrifterHole.vue": {
+    "file": "assets/addDrifterHole.144022d1.js",
+    "src": "resources/js/components/step/addDrifterHole.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_date.e8c4c223.js"
+    ],
+    "css": [
+      "assets/addDrifterHole.f5407348.css"
+    ]
+  },
+  "resources/js/components/step/systemNotes.vue": {
+    "file": "assets/systemNotes.e358ff2a.js",
+    "src": "resources/js/components/step/systemNotes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js",
+      "_QInput.0a5b359e.js",
+      "_ClosePopup.32ce8d79.js",
+      "_date.e8c4c223.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/deleteSystemNotes.vue"
+    ],
+    "css": [
+      "assets/systemNotes.aa1865e6.css"
+    ]
+  },
+  "resources/js/components/step/cellSigId.vue": {
+    "file": "assets/cellSigId.676bbc46.js",
+    "src": "resources/js/components/step/cellSigId.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTooltip.46988d05.js",
+      "_copy-to-clipboard.6d423000.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/addSigId.vue",
+      "resources/js/components/step/addSigIdSingle.vue"
+    ]
+  },
+  "resources/js/components/step/cellGroup.vue": {
+    "file": "assets/cellGroup.77b31751.js",
+    "src": "resources/js/components/step/cellGroup.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/cellAge.vue": {
+    "file": "assets/cellAge.14a62bb6.js",
+    "src": "resources/js/components/step/cellAge.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/countup/index.ts"
+    ]
+  },
+  "resources/js/components/step/cellWormholeTypeButton.vue": {
+    "file": "assets/cellWormholeTypeButton.b50dde2b.js",
+    "src": "resources/js/components/step/cellWormholeTypeButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/addWormholeType.vue"
+    ]
+  },
+  "resources/js/components/step/cellLinkToButton.vue": {
+    "file": "assets/cellLinkToButton.d7e2c0a6.js",
+    "src": "resources/js/components/step/cellLinkToButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTooltip.46988d05.js"
+    ]
+  },
+  "resources/js/components/step/cell.vue": {
+    "file": "assets/cell.bea202f6.js",
+    "src": "resources/js/components/step/cell.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/routeInfoPaste.vue": {
+    "file": "assets/routeInfoPaste.9c6f09e0.js",
+    "src": "resources/js/components/step/routeInfoPaste.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/step/sigNotes.vue": {
+    "file": "assets/sigNotes.15896939.js",
+    "src": "resources/js/components/step/sigNotes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js",
+      "_QInput.0a5b359e.js",
+      "_ClosePopup.32ce8d79.js",
+      "_date.e8c4c223.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/step/deleteSigNotes.vue"
+    ],
+    "css": [
+      "assets/sigNotes.9f4609f0.css"
+    ]
+  },
+  "resources/js/components/step/routeDeleteButtonNoRolesIsOwner.vue": {
+    "file": "assets/routeDeleteButtonNoRolesIsOwner.e0b6bd12.js",
+    "src": "resources/js/components/step/routeDeleteButtonNoRolesIsOwner.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/step/routeDeleteButtonHasRolesIsOwner.vue": {
+    "file": "assets/routeDeleteButtonHasRolesIsOwner.17742ef6.js",
+    "src": "resources/js/components/step/routeDeleteButtonHasRolesIsOwner.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/step/routeDeleteButtonHasRolesNotOwner.vue": {
+    "file": "assets/routeDeleteButtonHasRolesNotOwner.16e8d2c9.js",
+    "src": "resources/js/components/step/routeDeleteButtonHasRolesNotOwner.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/routeDeleteButtonNoRolesNotOwner.vue": {
+    "file": "assets/routeDeleteButtonNoRolesNotOwner.860088d5.js",
+    "src": "resources/js/components/step/routeDeleteButtonNoRolesNotOwner.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenSigURL.vue": {
+    "file": "assets/BrokenSigURL.4831ea94.js",
+    "src": "resources/js/components/brokenChain/BrokenSigURL.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenChainURL.vue": {
+    "file": "assets/BrokenChainURL.570e7b3a.js",
+    "src": "resources/js/components/brokenChain/BrokenChainURL.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenChainClaim.vue": {
+    "file": "assets/BrokenChainClaim.8dbc7141.js",
+    "src": "resources/js/components/brokenChain/BrokenChainClaim.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenChainTableRegionCell.vue": {
+    "file": "assets/BrokenChainTableRegionCell.922caa1a.js",
+    "src": "resources/js/components/brokenChain/BrokenChainTableRegionCell.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/brokenChain/BrokenChainTableConstellationCell.vue": {
+    "file": "assets/BrokenChainTableConstellationCell.44dccfb3.js",
+    "src": "resources/js/components/brokenChain/BrokenChainTableConstellationCell.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteAge.vue": {
+    "file": "assets/cellRouteAge.c30d8afa.js",
+    "src": "resources/js/components/route/cellRouteAge.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/countup/index.ts"
+    ]
+  },
+  "resources/js/components/route/cellRouteJumpNumber.vue": {
+    "file": "assets/cellRouteJumpNumber.bf028406.js",
+    "src": "resources/js/components/route/cellRouteJumpNumber.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteJumpType.vue": {
+    "file": "assets/cellRouteJumpType.d157ad08.js",
+    "src": "resources/js/components/route/cellRouteJumpType.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteLife.vue": {
+    "file": "assets/cellRouteLife.b63840c8.js",
+    "src": "resources/js/components/route/cellRouteLife.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteMass.vue": {
+    "file": "assets/cellRouteMass.f5ada68d.js",
+    "src": "resources/js/components/route/cellRouteMass.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_QTooltip.46988d05.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteName.vue": {
+    "file": "assets/cellRouteName.8f946adb.js",
+    "src": "resources/js/components/route/cellRouteName.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteRegion.vue": {
+    "file": "assets/cellRouteRegion.cd0c5098.js",
+    "src": "resources/js/components/route/cellRouteRegion.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteShipSize.vue": {
+    "file": "assets/cellRouteShipSize.8732bee7.js",
+    "src": "resources/js/components/route/cellRouteShipSize.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteSig.vue": {
+    "file": "assets/cellRouteSig.a8c02a11.js",
+    "src": "resources/js/components/route/cellRouteSig.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/cellRouteSystemType.vue": {
+    "file": "assets/cellRouteSystemType.97f9c3b6.js",
+    "src": "resources/js/components/route/cellRouteSystemType.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/routeButton.vue": {
+    "file": "assets/routeButton.c233fc15.js",
+    "src": "resources/js/components/route/routeButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/route/routeInfoPasteRoute.vue",
+      "resources/js/components/route/connectionRate.vue"
+    ]
+  },
+  "resources/js/components/sigs/SigGasNebulasTable.vue": {
+    "file": "assets/SigGasNebulasTable.ea30fd09.js",
+    "src": "resources/js/components/sigs/SigGasNebulasTable.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTooltip.46988d05.js",
+      "_QTable.8d314c3a.js",
+      "_QTd.5e156fed.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/sigs/SigGasNebulasTableSigText.vue",
+      "resources/js/components/sigs/SigGasNebulasTableSigCount.vue",
+      "resources/js/components/sigs/SigGasNebulasDamageChip.vue"
+    ],
+    "css": [
+      "assets/SigGasNebulasTable.f64fb085.css"
+    ]
+  },
+  "resources/js/components/step/deleteSystemNotes.vue": {
+    "file": "assets/deleteSystemNotes.285af2f9.js",
+    "src": "resources/js/components/step/deleteSystemNotes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/addSigId.vue": {
+    "file": "assets/addSigId.5a58d975.js",
+    "src": "resources/js/components/step/addSigId.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/step/addSigIdSingle.vue": {
+    "file": "assets/addSigIdSingle.c66e6bc9.js",
+    "src": "resources/js/components/step/addSigIdSingle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/addWormholeType.vue": {
+    "file": "assets/addWormholeType.ebb739c5.js",
+    "src": "resources/js/components/step/addWormholeType.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/deleteSigNotes.vue": {
+    "file": "assets/deleteSigNotes.4edb6536.js",
+    "src": "resources/js/components/step/deleteSigNotes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/route/routeInfoPasteRoute.vue": {
+    "file": "assets/routeInfoPasteRoute.483cd9eb.js",
+    "src": "resources/js/components/route/routeInfoPasteRoute.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QInput.0a5b359e.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/route/connectionRate.vue": {
+    "file": "assets/connectionRate.b4bc7133.js",
+    "src": "resources/js/components/route/connectionRate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_QTd.5e156fed.js",
+      "_QTable.8d314c3a.js",
+      "_QInput.0a5b359e.js",
+      "_date.e8c4c223.js"
+    ],
+    "dynamicImports": [
+      "resources/js/components/route/deleteConnectionotes.vue"
+    ],
+    "css": [
+      "assets/connectionRate.4ea10b24.css"
+    ]
+  },
+  "resources/js/components/sigs/SigGasNebulasTableSigText.vue": {
+    "file": "assets/SigGasNebulasTableSigText.ef6fc704.js",
+    "src": "resources/js/components/sigs/SigGasNebulasTableSigText.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/sigs/SigGasNebulasTableSigCount.vue": {
+    "file": "assets/SigGasNebulasTableSigCount.0625098b.js",
+    "src": "resources/js/components/sigs/SigGasNebulasTableSigCount.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_ClosePopup.32ce8d79.js"
+    ]
+  },
+  "resources/js/components/sigs/SigGasNebulasDamageChip.vue": {
+    "file": "assets/SigGasNebulasDamageChip.063cc900.js",
+    "src": "resources/js/components/sigs/SigGasNebulasDamageChip.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/SigGasNebulasDamageChip.68a9ed63.css"
+    ]
+  },
+  "resources/js/components/route/deleteConnectionotes.vue": {
+    "file": "assets/deleteConnectionotes.25163b3d.js",
+    "src": "resources/js/components/route/deleteConnectionotes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/step/routeMapping.css": {
+    "file": "assets/routeMapping.dbe468f4.css",
+    "src": "resources/js/components/step/routeMapping.css"
+  },
+  "resources/js/components/allthestats/cellOnlineStatus.css": {
+    "file": "assets/cellOnlineStatus.e4ef942d.css",
+    "src": "resources/js/components/allthestats/cellOnlineStatus.css"
+  },
+  "resources/js/components/feedback/newFeedbackButton.css": {
+    "file": "assets/newFeedbackButton.241ef624.css",
+    "src": "resources/js/components/feedback/newFeedbackButton.css"
+  },
+  "resources/js/components/step/addDrifterHole.css": {
+    "file": "assets/addDrifterHole.f5407348.css",
+    "src": "resources/js/components/step/addDrifterHole.css"
+  },
+  "resources/js/components/sigs/SigGasNebulasTable.css": {
+    "file": "assets/SigGasNebulasTable.f64fb085.css",
+    "src": "resources/js/components/sigs/SigGasNebulasTable.css"
+  },
+  "resources/js/components/sigs/SigGasNebulasDamageChip.css": {
+    "file": "assets/SigGasNebulasDamageChip.68a9ed63.css",
+    "src": "resources/js/components/sigs/SigGasNebulasDamageChip.css"
+  },
+  "resources/js/components/sigs/SigReportedIcon.css": {
+    "file": "assets/SigReportedIcon.5fa8706a.css",
+    "src": "resources/js/components/sigs/SigReportedIcon.css"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.c0fadd91.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  },
+  "resources/js/components/step/systemNotes.css": {
+    "file": "assets/systemNotes.aa1865e6.css",
+    "src": "resources/js/components/step/systemNotes.css"
+  },
+  "resources/js/components/step/sigNotes.css": {
+    "file": "assets/sigNotes.9f4609f0.css",
+    "src": "resources/js/components/step/sigNotes.css"
+  },
+  "resources/js/views/Chars.css": {
+    "file": "assets/Chars.46cc5067.css",
+    "src": "resources/js/views/Chars.css"
+  },
+  "resources/js/views/AdminPanel.css": {
+    "file": "assets/AdminPanel.803d46b9.css",
+    "src": "resources/js/views/AdminPanel.css"
+  },
+  "resources/js/components/route/connectionRate.css": {
+    "file": "assets/connectionRate.4ea10b24.css",
+    "src": "resources/js/components/route/connectionRate.css"
+  },
+  "resources/js/views/HotAreas.css": {
+    "file": "assets/HotAreas.c21b13b1.css",
+    "src": "resources/js/views/HotAreas.css"
+  },
+  "resources/js/views/AllTheStats.css": {
+    "file": "assets/AllTheStats.4bf3451f.css",
+    "src": "resources/js/views/AllTheStats.css"
+  },
+  "resources/js/views/Route.css": {
+    "file": "assets/Route.810886ca.css",
+    "src": "resources/js/views/Route.css"
+  },
+  "resources/js/views/AllConnections.css": {
+    "file": "assets/AllConnections.d1a5068a.css",
+    "src": "resources/js/views/AllConnections.css"
+  },
+  "resources/js/views/shortestPath.css": {
+    "file": "assets/shortestPath.73549dfc.css",
+    "src": "resources/js/views/shortestPath.css"
+  },
+  "resources/js/components/chat/chatWindow.css": {
+    "file": "assets/chatWindow.0944a5e7.css",
+    "src": "resources/js/components/chat/chatWindow.css"
+  },
+  "resources/js/components/step/systemTable.css": {
+    "file": "assets/systemTable.3a471e54.css",
+    "src": "resources/js/components/step/systemTable.css"
+  },
+  "resources/js/views/Sigs.css": {
+    "file": "assets/Sigs.0c0373fd.css",
+    "src": "resources/js/views/Sigs.css"
+  },
+  "resources/js/views/Scopeh.css": {
+    "file": "assets/Scopeh.b3db109f.css",
+    "src": "resources/js/views/Scopeh.css"
+  },
+  "resources/js/components/brokenChain/BrokenChainTable.css": {
+    "file": "assets/BrokenChainTable.901db088.css",
+    "src": "resources/js/components/brokenChain/BrokenChainTable.css"
+  },
+  "resources/js/views/Chat.css": {
+    "file": "assets/Chat.f0495891.css",
+    "src": "resources/js/views/Chat.css"
+  },
+  "resources/js/views/Whalers.css": {
+    "file": "assets/Whalers.354e6f36.css",
+    "src": "resources/js/views/Whalers.css"
+  },
+  "resources/js/components/sigs/SigGasTable.css": {
+    "file": "assets/SigGasTable.cfe20261.css",
+    "src": "resources/js/components/sigs/SigGasTable.css"
+  },
+  "resources/js/components/hotarea/GasHotTable.css": {
+    "file": "assets/GasHotTable.af81f3de.css",
+    "src": "resources/js/components/hotarea/GasHotTable.css"
+  },
+  "resources/js/components/route/routeReservedTable.css": {
+    "file": "assets/routeReservedTable.c77a2221.css",
+    "src": "resources/js/components/route/routeReservedTable.css"
+  },
+  "resources/js/components/route/routeSavedTable.css": {
+    "file": "assets/routeSavedTable.aca0ab60.css",
+    "src": "resources/js/components/route/routeSavedTable.css"
+  },
+  "resources/js/components/route/routeTable.css": {
+    "file": "assets/routeTable.a8de6da0.css",
+    "src": "resources/js/components/route/routeTable.css"
+  },
+  "resources/js/components/brokenChain/BrokenStaticTable.css": {
+    "file": "assets/BrokenStaticTable.60af35f3.css",
+    "src": "resources/js/components/brokenChain/BrokenStaticTable.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.51e76855.css",
+    "src": "resources/js/app.css"
+  }
+}

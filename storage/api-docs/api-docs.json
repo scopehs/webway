@@ -1,0 +1,132 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Honeycomb API Documentation",
+        "description": "API Documentation",
+        "contact": {
+            "email": "scopehone@goonswarm.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "https://pf.scopeh.co.uk",
+            "description": "Honeycomb API Server"
+        }
+    ],
+    "paths": {
+        "/parse_sigs": {
+            "post": {
+                "tags": [
+                    "Parse"
+                ],
+                "summary": "Parse EVE Signature Window",
+                "description": "Paste a signature window paste and parse and insert in database.",
+                "operationId": "parse_sigs",
+                "requestBody": {
+                    "description": "List of user object",
+                    "required": true,
+                    "content": {
+                        "multipart/form-data": {
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "properties": {
+                                        "paste": {
+                                            "type": "string",
+                                            "example": "HIK-016 Cosmic Signature Relic Site Ruined Blood Raider Monument Site 100.0% 28.76 AU"
+                                        },
+                                        "system_id": {
+                                            "type": "integer",
+                                            "example": "1234567"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful operation"
+                    },
+                    "400": {
+                        "description": "Bad Request"
+                    },
+                    "401": {
+                        "description": "Unauthenticated"
+                    },
+                    "403": {
+                        "description": "Forbidden"
+                    },
+                    "404": {
+                        "description": "Resource Not Found"
+                    }
+                }
+            }
+        },
+        "/api/solar_system/{system_id}": {
+            "get": {
+                "tags": [
+                    "SolarSystem"
+                ],
+                "summary": "Gets Solar System Information",
+                "description": "Returns Solor System Data",
+                "operationId": "solar_system",
+                "parameters": [
+                    {
+                        "name": "system_id",
+                        "in": "path",
+                        "description": "Solar System ID",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "202": {
+                        "description": "Successful operation"
+                    },
+                    "400": {
+                        "description": "Bad Request"
+                    },
+                    "401": {
+                        "description": "Unauthenticated"
+                    },
+                    "403": {
+                        "description": "Forbidden"
+                    },
+                    "404": {
+                        "description": "Resource Not Found"
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "SolarSystem": {
+                "title": "SolarSystem",
+                "description": "SolarSystem model",
+                "xml": {
+                    "name": "SolarSystem"
+                }
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Universe",
+            "description": "API Endpoints of Universe"
+        }
+    ],
+    "security": [
+        []
+    ]
+}

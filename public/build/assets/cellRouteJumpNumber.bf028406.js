@@ -1,0 +1,1 @@
+import{u as a,c as l,e as o,f as u,i as n,z as m,M as c}from"./app.947dfe37.js";const d={__name:"cellRouteJumpNumber",props:{item:Object},setup(t){const e=t;let s=a(),r=l(()=>s.routeCurrentSystemID==e.item.solar_system.system_id?"text-red":null);return(i,p)=>(o(),u("div",null,[n("span",{class:c(r.value)},m(e.item.jump),3)]))}};export{d as default};

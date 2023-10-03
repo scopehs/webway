@@ -1,0 +1,1 @@
+cd ../laradock && upd.bat

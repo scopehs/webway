@@ -1,0 +1,50 @@
+cheat sheet
+//dwadwadwadawd
+alias sail='bash vendor/bin/sail'
+alias sdown='bash vendor/bin/sail down'
+alias sa='bash vendor/bin/sail artisan'
+alias sup='bash vendor/bin/sail up -d'
+alias sdown='bash vendor/bin/sail down'
+alias snpm='bash vendor/bin/sail npm'
+alias sdev='bash vendor/bin/sail npm run dev'
+alias sprod='bash vendor/bin/sail npm run build'
+alias snpmi='bash vendor/bin/sail npm install'
+alias snpmu='bash vendor/bin/sail npm update'
+alias snpx='bash vendor/bin/sail npx'
+alias smix='bash vendor/bin/sail npx mix'
+alias sc='bash vendor/bin/sail composer'
+alias scr='bash vendor/bin/sail composer require'
+alias scu='bash vendor/bin/sail composer update'
+alias scrm='bash vendor/bin/sail composer remove'
+alias sam='bash vendor/bin/sail artisan migrate'
+alias samf='bash vendor/bin/sail artisan migrate:fresh'
+alias squeue='bash vendor/bin/sail artisan queue'
+alias shorizon='bash vendor/bin/sail artisan horizon'
+alias sat='clear && sail test'
+alias sfat='clear && sail test --filter '
+alias satg='clear && sail test --group '
+alias samk='bash vendor/bin/sail artisan:make '
+
+sailinit() {
+    curl -s "https://laravel.build/${1:-laravel}" | bash
+    cd ${1} && git init && sail up
+}
+
+
+sc install && scu && snpmi && snpmu && sprod
+
+sc install && scu && snpmi && snpmu && snpmw
+
+sc dumpautoload && sa optimize:clear && sa optimize && sa route:cache &&  sa config:cache && sc dumpautoload
+
+
+Barren Perimeter Reservoir
+Sizable Perimeter Reservoir
+Token Perimeter Reservoir
+Minor Perimeter Reservoir
+Ordinary Perimeter Reservoir
+Bountiful Frontier Reservoir
+Vast Frontier Reservoir
+Instrumental Core Reservoir
+Vital Core Reservoir
+no idea what is going on
